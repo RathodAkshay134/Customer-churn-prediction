@@ -1,4 +1,4 @@
-# Customer Churn Prediction – Telecom
+# Customer Churn Prediction using Machine Learning (XGBoost)
 
 ## 📌 Business Problem
 No-Churn Telecom is facing high customer churn due to increasing competition. The company wants to identify customers who are likely to leave and take preventive actions through targeted retention strategies.
